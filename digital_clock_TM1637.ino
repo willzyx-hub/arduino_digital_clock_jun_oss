@@ -1,3 +1,4 @@
+// No copyright files
 #include <Wire.h>
 #include <RTClib.h>
 #include "SevenSegmentTM1637.h"
